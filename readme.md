@@ -26,6 +26,19 @@ I am a warrior, even when my greatest enemy is myself.
 **I doubt everything. Even myself. But I believe in this:
 No one is coming to save me. I must drag myself out of the swamp.**
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="example/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="example/light.svg"
+  />
+  <img alt="Breakout Game" src="example/light.svg" />
+</picture>
+
 If I fall, I will measure the depth of the ground.
 If I break, I will memorize the cracks of my soul.
 If I am left alone, I will follow the sound of my own footsteps.
