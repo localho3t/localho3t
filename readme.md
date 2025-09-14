@@ -33,16 +33,3 @@ If I am left alone, I will follow the sound of my own footsteps.
 I am LOCALHO3T.
 I am my own server.
 I am the silent signature that never fades.
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/localho3t/github-breakout/example/dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/localho3t/github-breakout/example/light.svg"
-  />
-  <img alt="Breakout Game" src="https://github.com/localho3t/github-breakout/example/light.svg" />
-</picture>
